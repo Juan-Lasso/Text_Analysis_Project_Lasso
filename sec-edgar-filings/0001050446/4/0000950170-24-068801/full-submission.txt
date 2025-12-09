@@ -1,0 +1,348 @@
+<SEC-DOCUMENT>0000950170-24-068801.txt : 20240604
+<SEC-HEADER>0000950170-24-068801.hdr.sgml : 20240604
+<ACCEPTANCE-DATETIME>20240604165900
+ACCESSION NUMBER:		0000950170-24-068801
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20240531
+FILED AS OF DATE:		20240604
+DATE AS OF CHANGE:		20240604
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			RICKERTSEN CARL J
+		CENTRAL INDEX KEY:			0001203479
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24435
+		FILM NUMBER:		241019107
+
+	MAIL ADDRESS:	
+		STREET 1:		MICROSTRATEGY INCORPORATED
+		STREET 2:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY Inc
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		703-848-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY INC
+		DATE OF NAME CHANGE:	19971126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2024-05-31</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001050446</issuerCik>
+        <issuerName>MICROSTRATEGY Inc</issuerName>
+        <issuerTradingSymbol>MSTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001203479</rptOwnerCik>
+            <rptOwnerName>RICKERTSEN CARL J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MICROSTRATEGY INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>1850 TOWERS CRESCENT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>TYSONS CORNER</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>false</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2024-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>497</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>497</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>497</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>497</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Director Stock Option (Right to buy)</value>
+                <footnoteId id="F4"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1524.49</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>139</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2034-05-31</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>139</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>139</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+                <footnoteId id="F4"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-05-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>98</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>98</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of MicroStrategy class A common stock.</footnote>
+        <footnote id="F2">The 497 restricted stock units vested in full on May 31, 2024.</footnote>
+        <footnote id="F3">See Exhibit A.</footnote>
+        <footnote id="F4">These grants were made pursuant to the MicroStrategy Incorporated 2023 Equity Incentive Plan (&quot;2023 Plan&quot;), which provides for the annual automatic grant of equity awards with an aggregate fair value of $300,000 (split evenly between RSUs and options) to each non-employee director on May 31 of each year, beginning in 2023. The 2023 Plan was approved by the stockholders of MicroStrategy Incorporated at the 2023 annual meeting.</footnote>
+        <footnote id="F5">This option is scheduled to vest as to 139 shares on the first anniversary of the grant date.</footnote>
+        <footnote id="F6">These restricted stock units are scheduled to vest as to 98 shares on the first anniversary of the grant date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph Phillips, Attorney-in-Fact</signatureName>
+        <signatureDate>2024-06-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>mstr-ex99.htm
+<DESCRIPTION>EX-99
+<TEXT>
+<html>
+ <head>
+  <title>EX-99</title>
+ </head>
+ <body style="margin: auto!important;padding: 8px;">
+  <div style="min-height:1in;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Exhibit A:</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Rickertsen also directly owns a director stock option to purchase 1,250 shares of Class A common stock with (i) an exercise price of $124.48 per share and (ii) an expiration date of May 31, 2030. The 1,250 shares subject to this option vested on May 31, 2024.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Rickertsen also directly owns a director stock option to purchase 2,500 shares of Class A common stock with (i) an exercise price of $470.00 per share and (ii) an expiration date of May 31, 2031. Of the 2,500 shares subject to this option, 1,250 shares vested on May 31, 2024, and 1,250 shares are scheduled to vest on May 31, 2025.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Rickertsen also directly owns a director stock option to purchase 3,750 shares of Class A common stock with (i) an exercise price of $264.69 per share and (ii) an expiration date of May 31, 2032. Of the 3,750 shares subject to this option, 1,250 shares vested on May 31, 2024, 1,250 shares are scheduled to vest on May 31, 2025, and 1,250 shares are scheduled to vest on May 31, 2026.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Rickertsen also directly owns a director stock option to purchase 761 shares of Class A common stock with (i) an exercise price of $301.63 per share and (ii) an expiration date of May 31, 2033. The 761 shares subject to this option vested on May 31, 2024.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">                                                                      </font></p>
+  <div style="flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;"></div>
+  <hr style="page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

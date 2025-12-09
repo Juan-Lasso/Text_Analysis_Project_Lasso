@@ -1,0 +1,163 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TK+HZDlRc88bYgM1Nk5erMrKlNEZ7MfgFTittxEyohZcDfTcMIHqWFDl32orVrH/
+ GfAz0aHV8f/gQd0C0FvMjg==
+
+<SEC-DOCUMENT>0001203478-03-000008.txt : 20030730
+<SEC-HEADER>0001203478-03-000008.hdr.sgml : 20030730
+<ACCEPTANCE-DATETIME>20030730171200
+ACCESSION NUMBER:		0001203478-03-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030728
+FILED AS OF DATE:		20030730
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY INC
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1861 INTERNATIONAL DR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		7038488600
+
+	MAIL ADDRESS:	
+		STREET 1:		1861 INTERNATIONAL DR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KLEIN JONATHAN F
+		CENTRAL INDEX KEY:			0001203478
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24435
+		FILM NUMBER:		03812303
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O MICROSTRATEGY INC
+		STREET 2:		1861 INTERNATIONAL DR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		7038488600
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MICROSTRATEGY INC
+		STREET 2:		1861 INTERNATIONAL DR
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+    <schemaVersion>X0201</schemaVersion>
+
+    <documentType>4</documentType><periodOfReport>2003-07-28</periodOfReport>
+    <issuer>
+        <issuerCik>0001050446</issuerCik>
+        <issuerName>MICROSTRATEGY INC</issuerName>
+        <issuerTradingSymbol>MSTR</issuerTradingSymbol></issuer><reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001203478</rptOwnerCik>
+            <rptOwnerName>KLEIN JONATHAN F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MICROSTRATEGY INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>1861 INTERNATIONAL DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>MCLEAN</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+            <reportingOwnerRelationship>
+<isDirector>0</isDirector><isOfficer>1</isOfficer><isTenPercentOwner>0</isTenPercentOwner><isOther>0</isOther><officerTitle>VP, Law and General Counsel</officerTitle></reportingOwnerRelationship></reportingOwner><nonDerivativeTable><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>M</transactionCode><equitySwapInvolved>0</equitySwapInvolved></transactionCoding><transactionAmounts><transactionShares><value>17500</value></transactionShares><transactionPricePerShare><value>4.70</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>A</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>17500</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership
+><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>100</value></transactionShares><transactionPricePerShare><value>40.60</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>17400</value><footnoteId id="F2"/></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonD
+erivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>200</value></transactionShares><transactionPricePerShare><value>40.62</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>17200</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-
+28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>200</value></transactionShares><transactionPricePerShare><value>40.74</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>17000</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transact
+ionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>800</value></transactionShares><transactionPricePerShare><value>40.75</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>16200</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transac
+tionShares><value>300</value></transactionShares><transactionPricePerShare><value>40.78</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>15900</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>5000</value></transactionShares><transactionPricePerShare><value>40.79</value></transactionPricePerSh
+are><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>10900</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>3400</value></transactionShares><transactionPricePerShare><value>40.80</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTrans
+actionAmounts><sharesOwnedFollowingTransaction><value>7500</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>900</value></transactionShares><transactionPricePerShare><value>40.81</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>6600</value></sharesOwnedFollowingTransaction></postTransactionAmo
+unts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>400</value></transactionShares><transactionPricePerShare><value>40.82</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>6200</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/>
+</natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>1000</value></transactionShares><transactionPricePerShare><value>40.85</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>5200</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class 
+A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>1000</value></transactionShares><transactionPricePerShare><value>40.87</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>4200</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><t
+ransactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>100</value></transactionShares><transactionPricePerShare><value>40.99</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>4100</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved>
+<footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>2000</value></transactionShares><transactionPricePerShare><value>41.00</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>2100</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>200</value></transactionShares><
+transactionPricePerShare><value>41.10</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>1900</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>100</value></transactionShares><transactionPricePerShare><value>41.19</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value
+></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>1800</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>1400</value></transactionShares><transactionPricePerShare><value>41.20</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value
+>400</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction><nonDerivativeTransaction><securityTitle><value>Class A Common Stock</value></securityTitle><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>S</transactionCode><equitySwapInvolved>0</equitySwapInvolved><footnoteId id="F1"/></transactionCoding><transactionAmounts><transactionShares><value>400</value></transactionShares><transactionPricePerShare><value>41.21</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><postTransactionAmounts><sharesOwnedFollowingTransaction><value>0</value></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D
+</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></nonDerivativeTransaction></nonDerivativeTable><derivativeTable><derivativeTransaction><securityTitle><value>Employee Stock Options (right to buy)</value></securityTitle><conversionOrExercisePrice><value>4.70</value></conversionOrExercisePrice><transactionDate><value>2003-07-28</value></transactionDate><transactionCoding><transactionFormType>4</transactionFormType><transactionCode>M</transactionCode><equitySwapInvolved>0</equitySwapInvolved></transactionCoding><transactionAmounts><transactionShares><value>17500</value></transactionShares><transactionPricePerShare><value>0</value></transactionPricePerShare><transactionAcquiredDisposedCode><value>D</value></transactionAcquiredDisposedCode></transactionAmounts><exerciseDate><value>2003-07-26</value><footnoteId id="F3"/></exerciseDate><expirationDate><value>2012-07-26</value></expirationDate><underlyingSecurity><underlyingSecurityTitle><value>Class A Common Stoc
+k</value></underlyingSecurityTitle><underlyingSecurityShares><value>17500</value></underlyingSecurityShares></underlyingSecurity><postTransactionAmounts><sharesOwnedFollowingTransaction><value>52500</value><footnoteId id="F4"/></sharesOwnedFollowingTransaction></postTransactionAmounts><ownershipNature><directOrIndirectOwnership><value>D</value></directOrIndirectOwnership><natureOfOwnership><value/></natureOfOwnership></ownershipNature></derivativeTransaction></derivativeTable><footnotes><footnote id="F1">The reported transactions were effected in accordance with a Sales Plan entered into on May 30, 2003 that is intended to comply with Rule 10b5-1(c).</footnote><footnote id="F2">Separate open market sale transactions that were executed on July 28, 2003 at the same price have been reported on an aggregate basis on a single line in Table I.  The order in which sale transactions are set forth in Table I is not necessarily reflective of the sequence in which the sale transactions occurred in fact.</footnote><foot
+note id="F3">The remaining portion of this option vests in three equal annual installments beginning on 07/26/2004 and expires on 07/26/2012.</footnote><footnote id="F4">See Exhibit A.</footnote></footnotes><remarks/><ownerSignature><signatureName>Jonathan F. Klein</signatureName><signatureDate>2003-07-30</signatureDate></ownerSignature></ownershipDocument>
+
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>attach_1.txt
+<TEXT>
+Exhibit A
+
+Mr. Klein also directly owns employee stock options to purchase shares of
+Class A Common Stock as follows:
+
+Option to purchase 50,000 shares with (i) exercise price of $20.69 per share,
+(ii) vesting in five equal annual installments beginning on 02/08/2004 and
+(iii) expiration on 02/08/2013
+
+Option to purchase 7,013 shares with (i) exercise price of $24.80 per share,
+(ii) 263 shares vesting on 04/18/2003 and the remaining 6,750 shares vesting
+in two equal annual installments beginning on 04/18/2004 and (iii) expiration
+on 04/18/2011
+
+Option to purchase 2,500 shares with (i) exercise price of $215.00 per share,
+(ii) vesting in five equal installments with the first installment vesting on
+04/01/2001 and the remaining four installments vesting annually beginning on
+10/01/2001 and (iii) expiration on 10/17/2010
+
+Option to purchase 5,000 shares with (i) exercise price of $242.50 per share,
+(ii) vesting in five equal annual installments beginning on 06/30/2001 and
+(iii) expiration on 09/28/2010
+
+Option to purchase 3,000 shares with (i) exercise price of $132.19 per share,
+(ii) vesting in five equal annual installments beginning on 09/30/2000 and
+(iii) expiration on 08/10/2009
+
+Option to purchase 50 shares with (i) exercise price of $31.50 per share,
+(ii) vesting in five equal annual installments beginning on 04/01/1999 and
+(iii) expiration on 04/01/2008.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

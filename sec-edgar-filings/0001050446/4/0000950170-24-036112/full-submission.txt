@@ -1,0 +1,326 @@
+<SEC-DOCUMENT>0000950170-24-036112.txt : 20240325
+<SEC-HEADER>0000950170-24-036112.hdr.sgml : 20240325
+<ACCEPTANCE-DATETIME>20240325201643
+ACCESSION NUMBER:		0000950170-24-036112
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20240321
+FILED AS OF DATE:		20240325
+DATE AS OF CHANGE:		20240325
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Le Phong
+		CENTRAL INDEX KEY:			0001651669
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24435
+		FILM NUMBER:		24780660
+
+	MAIL ADDRESS:	
+		STREET 1:		MICROSTRATEGY INCORPORATED
+		STREET 2:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY Inc
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		703-848-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICROSTRATEGY INC
+		DATE OF NAME CHANGE:	19971126
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2024-03-21</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001050446</issuerCik>
+        <issuerName>MICROSTRATEGY Inc</issuerName>
+        <issuerTradingSymbol>MSTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001651669</rptOwnerCik>
+            <rptOwnerName>Le Phong</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MICROSTRATEGY INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>1850 TOWERS CRESCENT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>TYSONS CORNER</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>665</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>1599.29</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2673</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2034-03-21</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2673</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2673</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2928</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2928</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2928</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2024-03-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1863</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1863</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1863</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 70 shares acquired under MicroStrategy's Employee Stock Purchase Plan on February 29, 2024.</footnote>
+        <footnote id="F2">25 percent of the shares subject to this option vest on the first anniversary of the grant date, and an additional 25 percent of the shares originally subject to this option vest on each anniversary thereafter until the option is vested in full.</footnote>
+        <footnote id="F3">See Exhibit A.</footnote>
+        <footnote id="F4">Each restricted stock unit represents a contingent right to receive one share of MicroStrategy class A common stock.</footnote>
+        <footnote id="F5">25 percent of these restricted stock units vest on the first anniversary of the grant date, and an additional 25 percent of the original number of restricted stock units vest on each anniversary thereafter until the restricted stock units are vested in full.</footnote>
+        <footnote id="F6">Each PSU represents a contingent right to receive shares of MicroStrategy class A common stock of between 0% and 200% of the target number of units, with the percentage determined based on MicroStrategy's relative total shareholder return (TSR) as compared to the TSR of members of the Nasdaq Composite Index over a three-year performance period (March 21, 2024 to March 20, 2027). Vesting is subject to certification by MicroStrategy's Compensation Committee of the level of achievement of the performance goal and the participant's continued service through that date. The &quot;target&quot; number of PSUs is reported on this Form 4.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joseph Phillips, Attorney-in-Fact</signatureName>
+        <signatureDate>2024-03-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>mstr-ex99.htm
+<DESCRIPTION>EX-99
+<TEXT>
+<html>
+ <head>
+  <title>EX-99</title>
+ </head>
+ <body style="margin: auto!important;padding: 8px;">
+  <div style="padding-top:0.5in;min-height:1in;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Exhibit A</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns an employee stock option to purchase 45,000 shares of Class A common stock with (i) an exercise price of $151.60 per share and (ii) an expiration date of November 22, 2029. Of the 45,000 shares subject to this option, 20,000 shares vested on November 22, 2022 and 25,000 shares vested on November 22, 2023.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;"> </font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns an employee stock option to purchase 40,000 shares of Class A common stock with (i) an exercise price of $691.23 per share and (ii) an expiration date of February 23, 2031. Of the 40,000 shares subject to this option, 10,000 shares vested on February 23, 2022, 10,000 shares vested on February 23, 2023, 10,000 shares vested on February 23, 2024, and 10,000 shares are scheduled to vest on February 23, 2025.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns an employee stock option to purchase 40,000 shares of Class A common stock with (i) an exercise price of $404.60 per share and (ii) an expiration date of February 17, 2032. Of the 40,000 shares subject to this option, 10,000 shares vested on February 17, 2023, 10,000 shares vested on February 17, 2024, 10,000 shares are scheduled to vest on February 17, 2025, and 10,000 shares are scheduled to vest on February 17, 2026.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns an employee stock option to purchase 60,000 shares of Class A common stock with (i) an exercise price of $231.25 per share and (ii) an expiration date of September 13, 2032. Of the 60,000 shares subject to this option, 15,000 shares vested on September 13, 2023, 15,000 shares are scheduled to vest on September 13, 2024, 15,000 shares are scheduled to vest on September 13, 2025, and 15,000 shares are scheduled to vest on September 13, 2026.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns restricted stock units with the contingent right to receive 250 shares of Class A common stock. The 250 shares will vest on November 13, 2024.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns restricted stock units with the contingent right to receive 4,768 shares of Class A common stock. Of these 4,768 shares, 1,192 shares are scheduled to vest on June 5, 2024, 1,192 shares are scheduled to vest on June 5, 2025, 1,192 shares are scheduled to vest on June 5, 2026, and 1,192 shares are scheduled to vest on June 5, 2027.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">Mr. Le also directly owns 9,537 performance stock units (PSUs) granted on June 5, 2023. Each PSU represents a contingent right to receive shares of Class A common stock of between 0 percent and 200 percent of the target number of units, with the percentage determined based on MicroStrategy's relative total shareholder return (TSR) as compared to the TSR of members of the Nasdaq Composite Index over a three-year performance period (June 1, 2023 to May 31, 2026). Vesting is subject to certification by MicroStrategy's Compensation Committee of the level of achievement of the performance goal and the participant's continued service through that date. The &#34;target&#34; number of PSUs is reported in this Exhibit A.</font></p>
+  <div style="flex-direction:column;display:flex;padding-bottom:0.5in;min-height:1in;justify-content:flex-end;box-sizing:border-box;"><p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;min-width:fit-content;">&#160;</font></p></div>
+  <hr style="page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

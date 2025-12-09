@@ -1,0 +1,352 @@
+<SEC-DOCUMENT>0001209191-16-153245.txt : 20161205
+<SEC-HEADER>0001209191-16-153245.hdr.sgml : 20161205
+<ACCEPTANCE-DATETIME>20161205115451
+ACCESSION NUMBER:		0001209191-16-153245
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20161201
+FILED AS OF DATE:		20161205
+DATE AS OF CHANGE:		20161205
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSTRATEGY INC
+		CENTRAL INDEX KEY:			0001050446
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				510323571
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		7038488600
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			TYSONS CORNER
+		STATE:			VA
+		ZIP:			22182
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Epstein Robert H
+		CENTRAL INDEX KEY:			0001345117
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24435
+		FILM NUMBER:		162033144
+
+	MAIL ADDRESS:	
+		STREET 1:		1850 TOWERS CRESCENT PLAZA
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-12-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001050446</issuerCik>
+        <issuerName>MICROSTRATEGY INC</issuerName>
+        <issuerTradingSymbol>MSTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001345117</rptOwnerCik>
+            <rptOwnerName>Epstein Robert H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O MICROSTRATEGY INCORPORATED</rptOwnerStreet1>
+            <rptOwnerStreet2>1850 TOWERS CRESCENT PLAZA</rptOwnerStreet2>
+            <rptOwnerCity>TYSONS CORNER</rptOwnerCity>
+            <rptOwnerState>VA</rptOwnerState>
+            <rptOwnerZipCode>22182</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-12-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>482</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>121.43</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>482</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-12-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>482</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>196.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Director Stock Option (Right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>121.43</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2016-12-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>482</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-04-30</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>482</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>18268</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The 482 shares exercised on December 1, 2016 pursuant to this option vested on April 30, 2016. Of the remaining 18,268 shares subject to this option, 5,768 shares vested on April 30, 2016, 6,250 shares are scheduled to vest on April 30, 2017, and 6,250 shares are scheduled to vest on April 30, 2018.</footnote>
+        <footnote id="F2">See Exhibit A.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ W. Ming Shao, Attorney-in-Fact</signatureName>
+        <signatureDate>2016-12-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>attachment1.htm
+<DESCRIPTION>EX-24 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+POWER OF ATTORNEY
+
+Know all by these presents, that the undersigned hereby constitutes and appoints
+each of W. Ming Shao and Olga E. Nejikovsky, signing singly, the undersigned's
+true and lawful attorney-in-fact to:
+
+(1) execute for and on behalf of the undersigned, in the undersigned's capacity
+as an officer and/or director of MicroStrategy Incorporated (the "Company"),
+Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange
+Act of 1934 and the rules thereunder;
+
+(2) do and perform any and all acts for and on behalf of the undersigned which
+may be necessary or desirable to complete and execute any such Form 3, 4, or 5
+and timely file such form with the United States Securities and Exchange
+Commission and any stock exchange or similar authority; and
+
+(3) take any other action of any type whatsoever in connection with the
+foregoing which, in the opinion of such attorney-in-fact, may be of benefit to,
+and in the best interest of, or legally required by, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the
+undersigned pursuant to this Power of Attorney shall be in such form and shall
+contain such terms and conditions as such attorney-in-fact may approve in such
+attorney-in-fact's discretion.
+
+The undersigned hereby grants to each such attorney-in-fact full power and
+authority to do and perform any and every act and thing whatsoever requisite,
+necessary, or proper to be done in the exercise of any of the rights and powers
+herein granted, as fully to all intents and purposes as the undersigned might or
+could do if personally present, with full power of substitution or revocation,
+hereby ratifying and confirming all that such attorney-in-fact, or such
+attorney-in-fact's substitute or substitutes, shall lawfully do or cause to be
+done by virtue of this Power of Attorney and the rights and powers herein
+granted. The undersigned acknowledges that the foregoing attorneys-in-fact, in
+serving in such capacity at the request of the undersigned, are not assuming,
+nor is the Company assuming, any of the undersigned's responsibilities to comply
+with, or the undersigned's liability under, Section 16 of the Securities
+Exchange Act of 1934.
+
+This Power of Attorney supersedes any and all previous Powers of Attorney
+relating to Form 3, 4, and 5 filings in the undersigned's capacity as an officer
+and/or director of the Company, and shall remain in full force and effect until
+the undersigned is no longer required to file Forms 3, 4, and 5 with respect to
+the undersigned's holdings of and transactions in securities issued by the
+Company, unless earlier revoked by the undersigned in a signed writing delivered
+to the foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be
+executed as of the date written below.
+
+
+Signature: /s/ Robert H. Epstein
+Print Name:  Robert H. Epstein
+Print Date:  December 3, 2016
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>attachment2.htm
+<DESCRIPTION>EX-99.1 DOCUMENT
+<TEXT>
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<PRE>
+Exhibit A:
+Mr. Epstein also directly owns a director stock option to purchase 5,000 shares
+of Class A common stock with (i) an exercise price of $175.98 per share and (ii)
+an expiration date of May 31, 2025.  Of the 5,000 shares subject to this option,
+1,250 shares vested on May 31, 2016, 1,250 shares are scheduled to vest on May
+31, 2017, 1,250 shares are scheduled to vest on May 31, 2018 and 1,250 shares
+are scheduled to vest on May 31, 2019.
+
+Mr. Epstein also directly owns a director stock option to purchase 5,000 shares
+of Class A common stock with (i) an exercise price of $186.54 per share and (ii)
+an expiration date of May 31, 2026.  Of the 5,000 shares subject to this option,
+1,250 shares are scheduled to vest on May 31, 2017, 1,250 shares are scheduled
+to vest on May 31, 2018, 1,250 shares are scheduled to vest on May 31, 2019 and
+1,250 shares are scheduled to vest on May 31, 2020.
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
